@@ -146,30 +146,30 @@ sudo nano /usr/share/nginx/html/index.html
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│                                                        │
-│        ●  SERVER ONLINE  |  STATUS: ACTIVE            │
-│                                                        │
-│           Welcome to                                   │
-│           DecodeLabs:                                  │
-│           Mission Accomplished                         │
-│                                                        │
-│   AWS EC2 Instance · Amazon Linux 2023 · Nginx         │
-│   Deployed by Muhammad Hassan Raza                     │
-│   Cloud Computing Intern · Batch 2026                  │
-│                                                        │
-│  ┌──────────────────┐  ┌──────────────────────────┐   │
-│  │  INSTANCE TYPE   │  │       WEB SERVER          │   │
-│  │  t3.micro        │  │  Nginx (Event-Driven)     │   │
-│  │  (Free Tier)     │  │                           │   │
-│  └──────────────────┘  └──────────────────────────┘   │
-│                                                        │
-│  ┌──────────────────┐  ┌──────────────────────────┐   │
-│  │ OPERATING SYSTEM │  │        SECURITY           │   │
-│  │ Amazon Linux     │  │  SSH Key Auth             │   │
-│  │ 2023 Kernel-6.1  │  │  SG Firewall              │   │
-│  └──────────────────┘  └──────────────────────────┘   │
-│                                                        │
-│   DECODELABS CLOUD COMPUTING INTERNSHIP · PROJECT 2    │
+│                                                      │
+│        ●  SERVER ONLINE  |  STATUS: ACTIVE           │
+│                                                      │
+│           Welcome to                                 │
+│           DecodeLabs:                                │
+│           Mission Accomplished                       │
+│                                                      │
+│   AWS EC2 Instance · Amazon Linux 2023 · Nginx       │
+│   Deployed by Muhammad Hassan Raza                   │
+│   Cloud Computing Intern · Batch 2026                │
+│                                                      │
+│  ┌──────────────────┐  ┌──────────────────────────┐  │
+│  │  INSTANCE TYPE   │  │       WEB SERVER         │  │
+│  │  t3.micro        │  │  Nginx (Event-Driven)    │  │
+│  │  (Free Tier)     │  │                          │  │
+│  └──────────────────┘  └──────────────────────────┘  │
+│                                                      │
+│  ┌──────────────────┐  ┌──────────────────────────┐  │
+│  │ OPERATING SYSTEM │  │        SECURITY          │  │
+│  │ Amazon Linux     │  │  SSH Key Auth            │  │
+│  │ 2023 Kernel-6.1  │  │  SG Firewall             │  │
+│  └──────────────────┘  └──────────────────────────┘  │
+│                                                      │
+│   DECODELABS CLOUD COMPUTING INTERNSHIP · PROJECT 2  │
 └──────────────────────────────────────────────────────┘
 ```
 
