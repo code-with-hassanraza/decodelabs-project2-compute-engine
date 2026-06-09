@@ -111,7 +111,7 @@ decodelabs-project2-compute-engine/
 | Type | Protocol | Port | Source | Purpose |
 |---|---|---|---|---|
 | SSH  | TCP | 22 | My IP only | Secure admin access |
-| HTTTp | TCP | 80 | 0.0.0.0/0 | Public web traffic |
+| HTTP | TCP | 80 | 0.0.0.0/0 | Public web traffic |
 | HTTPS | TCP | 443 | 0.0.0.0/0 | Secure web traffic |
 
 ---
