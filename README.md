@@ -75,9 +75,7 @@ Developer (Local Machine)
 decodelabs-project2-compute-engine/
 ├── README.md
 ├── src/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
+│   └── index.html
 ├── config/
 │   ├── security-group-rules.md
 │   └── nginx-setup-commands.sh
